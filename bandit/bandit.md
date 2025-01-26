@@ -61,6 +61,9 @@ dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 - cat data.txt | base64 -d; Is posible code with base64, 'echo "hello" | base64', and for decode 'echo "jn356jn3" | base64 -d'
 
 ## level 12:
+7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+
+- cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m', the text is cesar cipher, more exactly 'ROT13'; then, 'tr' replace A in M, n in z and etc.
 
 ## level 13:
 
