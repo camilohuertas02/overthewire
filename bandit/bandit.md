@@ -45,8 +45,16 @@ dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 - in vim, /millionth
 
 ### level 9:
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+
+- cat data.txt | sort | uniq -u ; here we use the piping in shell, then: the result in cat data.txt is piping with sort (for order the lines), 'uni' for remove duplicates with parameter -u for remove duplicate and origin.
+
+- Is posible code with base64, 'echo "hello" | base64', and for decode 'echo "jn356jn3" | base64 -d'
 
 ### level 10:
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+
+- cat data.txt | strings | grep "="; 'strings' for obtaining human-reading text, and 'grep' for search characters in the text.
 
 ### level 11:
 
