@@ -1,88 +1,89 @@
-#### key level 0 : 
+### level 0 : 
 bandit0
 
 
-#### key level 1:
+### level 1:
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 - ssh username@ip -p port
 
 
-#### key level 2:
+### level 2:
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
 - vim ./-  , 'cause - too is a parameter in any commands, so we use ./ for indicate that we is reference a file
 
-#### key level 3:
+### level 3:
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 - vim "filename"
 
-#### key level 4:
+### level 4:
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
 - the file is hidden, then we use ls -la for see this files, next vim ./<file>
 
 
-#### key level 5:
+### level 5:
 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 
 - vim ./<file>, one for one
 
-#### key level 6:
+### level 6:
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 
 - there are many file and many directory. So, we use "find ./ -type f -size 1033c", '-type f' = only files, '-size 1033c' = 1033 bytes
 
-#### level 7:
+### level 7:
 morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
 - find ./ -type f -size 33c -user bandit7 -group bandit6 -> ./var/lib/dpkg/info/bandit7.password
 
-#### level 8:
+### level 8:
 dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 
 - in vim, /millionth
-#### level 9:
 
-#### level 10:
+### level 9:
 
-#### level 11:
+### level 10:
 
-#### level 12:
+### level 11:
 
-level 13:
+### level 12:
 
-level 14:
+### level 13:
 
-level 15:
+### level 14:
 
-level 16:
+### level 15:
 
-level 17:
+### level 16:
 
-level 18:
+### level 17:
 
-level 19:
+### level 18:
 
-level 20:
+### level 19:
 
-level 21:
+### level 20:
 
-level 22:
+### level 21:
 
-level 23:
+### level 22:
 
-level 24:
+### level 23:
 
-level 25:
+### level 24:
 
-level 26:
+### level 25:
 
-level 27:
+### level 26:
 
-level 28:
+### level 27:
 
-level 29:
+### level 28:
 
-level 30:
+### level 29:
+
+### level 30:
